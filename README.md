@@ -16,6 +16,7 @@ Uploading my leetcode problems on daily basis using C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -33,4 +34,8 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
