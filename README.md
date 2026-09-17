@@ -6,6 +6,7 @@ Uploading my leetcode problems on daily basis using C++.
 ## Array
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samra-06/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -19,6 +20,7 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
@@ -45,6 +47,7 @@ Uploading my leetcode problems on daily basis using C++.
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -62,4 +65,12 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
