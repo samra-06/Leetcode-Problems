@@ -9,11 +9,13 @@ Uploading my leetcode problems on daily basis using C++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samra-06/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+| [3525-find-x-value-of-array-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samra-06/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -85,4 +87,8 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/samra-06/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
