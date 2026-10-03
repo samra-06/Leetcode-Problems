@@ -24,6 +24,7 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
@@ -50,6 +51,7 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -112,6 +114,7 @@ Uploading my leetcode problems on daily basis using C++.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
@@ -122,6 +125,7 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samra-06/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
