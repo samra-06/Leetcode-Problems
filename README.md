@@ -12,6 +12,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samra-06/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samra-06/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/samra-06/Leetcode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Uploading my leetcode problems on daily basis using C++.
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
