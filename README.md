@@ -13,6 +13,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samra-06/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -75,6 +76,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samra-06/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Uploading my leetcode problems on daily basis using C++.
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
