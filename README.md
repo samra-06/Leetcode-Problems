@@ -10,6 +10,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samra-06/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/samra-06/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samra-06/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -72,6 +73,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samra-06/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -117,6 +119,7 @@ Uploading my leetcode problems on daily basis using C++.
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -154,4 +157,8 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samra-06/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
