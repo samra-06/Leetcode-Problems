@@ -17,6 +17,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samra-06/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/samra-06/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/samra-06/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/samra-06/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samra-06/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/samra-06/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Uploading my leetcode problems on daily basis using C++.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/samra-06/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/samra-06/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +121,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samra-06/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samra-06/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/samra-06/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
