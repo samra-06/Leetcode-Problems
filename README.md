@@ -72,6 +72,7 @@ Uploading my leetcode problems on daily basis using C++.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samra-06/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samra-06/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/samra-06/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/samra-06/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
